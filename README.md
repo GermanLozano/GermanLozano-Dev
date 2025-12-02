@@ -1,3 +1,5 @@
+<img width="1584" height="396" alt="Blue Modern Corporate Staff Profile LinkedIn Banner" src="https://github.com/user-attachments/assets/a743929a-540e-4ae1-a53e-6db914067d9d" />
+
 # 👋 Hi, I'm German Lozano
 
 🎓 Systems Engineer | 💻 Full Stack Developer  
